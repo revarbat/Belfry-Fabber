@@ -11,37 +11,5 @@ those of the CupCake CNC:
   * No timing belt needed for the Z axis.
   * Uses non-metric parts, for those of us stuck in a non-metric country.
 
-Parts List:
-      1 of Makerbot Gen3 Motherboard.
-      1 of Makerbot Gen3 Extruder Controller.
-      1 of Makerbot Mk5 Extruder.
-      3 of Makerbot Gen3 Opto-endstops.
-      1 of MakerBot relay board.
-      3 of Makerbot NEMA17 stepper motor.
-      3 of MakerGear Pololu Stepper Driver.
-      1 of Modtronix LCD2S 20x4 serial LCD.
-      1 of Modtronix KPAD16 4x4 matrix keypad.
-      4 of #6-32 x 3/4" machine screws.
-     24 of #6-32 x 1/2" machine screws.
-   ~135 of #6-32 x 3/8" machine screws.
-   ~165 of #6-32 machine nuts.
-     24 of #4-40 x 1/4" machine screws.
-      4 of 3/8" x 1/2" self-centering brass slide bearing.
-      8 of 3/8" x 1/2" nylon slide bearing.
-      6 of 3/8" x 12" ground steel slider rod.
-      1 of 3/8"-8 x 12" plated ACME threaded rod.
-      1 of 3/8"-8 7/16" ACME nut.
-      1 of 3/8" to 3/16" clamping helical shaft coupler.
-      1 of 3/8" ID 7/8" OD ball bearing.
-      2 of 15 tooth MXL timing belt pulley, 3/16" ID, 1/4" belt width.
-      2 of 320MXL timing belt, 1/4" width.
-      2 of 5/16" x 3/4" phillips shoulder screw with 1/4"-20 thread.
-      2 of 1/4"-20 serrated hex locknut.
-      4 of 1/4" ID, 7/8" OD washer.
-      4 of 5/16" ID, 1 1/8" OD washer.
-      4 of 5/16" ID, 5/8" OD washer.
-      2 of 5/16" round spacer, 5/8" OD, 1/4" long.
-      2 of 608 ABEC-3 ball bearings.
-      1 of standard 500 Watt ATX power supply.
-      1 of 120V AC power cable.
+Go to http://github.com/Revarbat/Belfry-Fabber/wiki for build instructions.
 
